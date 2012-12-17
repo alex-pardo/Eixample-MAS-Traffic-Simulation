@@ -1,0 +1,11 @@
+<context id="eixample" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
+ <projection type="continuous space" id="space"/>
+ <projection type="grid" id="grid"/>
+ <context id="eixample_subcontext">
+	 <projection type="continuous space" id="space_subcontext"/>
+	 <projection type="grid" id="grid_subcontext"/>
+	 <projection type="network" id="eixample network"></projection>
+</context>
+</context>

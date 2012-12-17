@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Scenario>
+<repast.simphony.dataLoader.engine.ClassNameDataLoaderAction context="eixample" file="repast.simphony.dataLoader.engine.ClassNameDataLoaderAction_0.xml" />
+<repast.simphony.action.data_set context="eixample" file="repast.simphony.action.data_set_1.xml" />
+<repast.simphony.action.data_set context="eixample" file="repast.simphony.action.data_set_2.xml" />
+<repast.simphony.action.display context="eixample" file="repast.simphony.action.display_3.xml" />
+<repast.simphony.action.time_series_chart context="eixample" file="repast.simphony.action.time_series_chart_4.xml" />
+<repast.simphony.action.histogram_chart context="eixample" file="repast.simphony.action.histogram_chart_5.xml" />
+<repast.simphony.action.display context="eixample_subcontext" file="repast.simphony.action.display_6.xml" />
+</Scenario>

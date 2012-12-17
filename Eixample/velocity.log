@@ -1,0 +1,21 @@
+2012-12-14 15:36:44,449 - ClasspathResourceLoader : initialization complete.
+2012-12-14 15:36:44,452 - ResourceCache : initialized. (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+2012-12-14 15:36:44,452 - Default ResourceManager initialization complete.
+2012-12-14 15:36:44,454 - Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+2012-12-14 15:36:44,456 - Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+2012-12-14 15:36:44,459 - Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+2012-12-14 15:36:44,462 - Loaded System Directive: org.apache.velocity.runtime.directive.Include
+2012-12-14 15:36:44,463 - Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+2012-12-14 15:36:44,507 - Created: 20 parsers.
+2012-12-14 15:36:44,523 - Velocimacro : initialization starting.
+2012-12-14 15:36:44,524 - Velocimacro : adding VMs from VM library template : VM_global_library.vm
+2012-12-14 15:36:44,539 - ResourceManager : unable to find resource 'VM_global_library.vm' in any resource loader.
+2012-12-14 15:36:44,539 - Velocimacro : error using  VM library template VM_global_library.vm : org.apache.velocity.exception.ResourceNotFoundException: Unable to find resource 'VM_global_library.vm'
+2012-12-14 15:36:44,540 - Velocimacro :  VM library template macro registration complete.
+2012-12-14 15:36:44,540 - Velocimacro : allowInline = true : VMs can be defined inline in templates
+2012-12-14 15:36:44,540 - Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+2012-12-14 15:36:44,540 - Velocimacro : allowInlineLocal = false : VMs defined inline will be  global in scope if allowed.
+2012-12-14 15:36:44,540 - Velocimacro : messages on  : VM system will output logging messages
+2012-12-14 15:36:44,540 - Velocimacro : autoload off  : VM system will not automatically reload global library macros
+2012-12-14 15:36:44,540 - Velocimacro : initialization complete.
+2012-12-14 15:36:44,540 - Velocity successfully started.

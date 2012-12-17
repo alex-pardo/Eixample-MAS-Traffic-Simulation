@@ -1,0 +1,33 @@
+<repast.simphony.chart2.engine.HistogramChartDescriptor>
+  <name>Histogram Chart</name>
+  <dataSet>histogram</dataSet>
+  <xAxisLabel></xAxisLabel>
+  <yAxisLabel></yAxisLabel>
+  <chartTitle>hist</chartTitle>
+  <type>HISTOGRAM</type>
+  <background>
+    <red>192</red>
+    <green>192</green>
+    <blue>192</blue>
+    <alpha>255</alpha>
+  </background>
+  <gridLineColor>
+    <red>255</red>
+    <green>255</green>
+    <blue>255</blue>
+    <alpha>255</alpha>
+  </gridLineColor>
+  <showGrid>true</showGrid>
+  <histType>STATIC</histType>
+  <binCount>100</binCount>
+  <sourceId>NumCars</sourceId>
+  <outOfRange>ADD</outOfRange>
+  <min>0.0</min>
+  <max>200.0</max>
+  <barColor>
+    <red>255</red>
+    <green>0</green>
+    <blue>0</blue>
+    <alpha>255</alpha>
+  </barColor>
+</repast.simphony.chart2.engine.HistogramChartDescriptor>
