@@ -5,6 +5,7 @@ Eixample-MAS Traffic Simulation
 
 Licensed under GNU GPL v3
 
+![Eixample](http://github.com/alex-pardo/Eixample-MAS-Traffic-Simulation/blob/gh-pages/images/eixample.tiff)
 
 This file is part of Eixample.
 
